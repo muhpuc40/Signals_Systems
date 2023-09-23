@@ -1,8 +1,18 @@
-    z
-- -----
-  a - z
+The laplace transform of f= 
+1/s^2
+ 
+The laplace transform of f1= 
+5/(4*(s + 2)) + 7/(2*(s + 2)^2) - 5/(4*s)
+ 
+   s - 5
+----------
+         2
+s (s + 2)
 
-      z sin(a)
--------------------
- 2
-z  - cos(a) z 2 + 1
+The inverse laplace transform of z= 
+t
+ 
+The inverse laplace transform of v= 
+(5*exp(-2*t))/4 + (7*t*exp(-2*t))/2 - 5/4
+ 
+>> 
